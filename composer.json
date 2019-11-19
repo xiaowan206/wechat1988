@@ -1,0 +1,16 @@
+{
+    "name": "wechat1988/wechat",
+    "description": "1.0",
+    "authors": [
+        {
+            "name": "wanzheng",
+            "email": "wanzheng19880130@163.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "Wechat\\Test\\":"src/Wechat/Test"
+        }
+    }
+}
